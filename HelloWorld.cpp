@@ -8,7 +8,7 @@
 
 int main()
 {
-    std::string names[] = {"Hryhorii, Den Samotos"}; // Write your name here
+    std::string names[] = {"Hryhorii, Іван,Den Samotos"}Іван; // Write your name here
     std::cout << "Hello World from:\n";
     for(int i = 0; i < (sizeof(names)/sizeof(*names)); i++)
     {
